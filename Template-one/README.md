@@ -1,2 +1,2 @@
-# ---- only made in CSS & HTML ---
+# ---- only made with CSS & HTML ---
 ## -- TEMPLATE-ONE (Leon).--
